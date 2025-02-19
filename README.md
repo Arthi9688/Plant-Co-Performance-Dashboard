@@ -40,7 +40,7 @@ This Power BI project analyzes **Plant Co's company performance** using various 
 - Conducted **final review and optimizations**.  
 - Published the report to **Power BI Service** for accessibility.  
 
-## 🛠 Tools & Technologies Used  
+##  Tools & Technologies Used  
 - **Power BI** (for data visualization)  
 - **Power Query** (for ETL & data transformation)  
 - **DAX (Data Analysis Expressions)** (for custom calculations)  
