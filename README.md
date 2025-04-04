@@ -1,4 +1,4 @@
-# PowerBI-projects
+
 #  Plant Co - Company Performance Dashboard  
 
 ##  Project Overview  
