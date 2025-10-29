@@ -44,7 +44,7 @@ This Power BI project analyzes **Plant Co's company performance** using various 
 - **Power BI** (for data visualization)  
 - **Power Query** (for ETL & data transformation)  
 - **DAX (Data Analysis Expressions)** (for custom calculations)  
-- **SQL** (if applicable, for data extraction & processing)  
+
 
  
  
