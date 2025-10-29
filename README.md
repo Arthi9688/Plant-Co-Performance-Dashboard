@@ -46,10 +46,5 @@ This Power BI project analyzes **Plant Co's company performance** using various 
 - **DAX (Data Analysis Expressions)** (for custom calculations)  
 - **SQL** (if applicable, for data extraction & processing)  
 
-##  How to Use the Report  
-1. Download the **`PlantCo_Performance.pbix`** file.  
-2. Open it in **Power BI Desktop**.  
-3. Explore different **interactive visuals & insights**.  
-4. Publish to **Power BI Service** if needed.  
  
  
