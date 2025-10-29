@@ -40,6 +40,6 @@ This Power BI project analyzes **Plant Co's company performance** using various 
 - **Power Query** (for ETL & data transformation)  
 - **DAX (Data Analysis Expressions)** (for custom calculations)  
 
+<img width="1327" height="746" alt="image" src="https://github.com/user-attachments/assets/980a8e5d-5e3e-45b0-b4cc-5c5ab2155133" />
 
- 
  
