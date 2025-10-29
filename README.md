@@ -33,12 +33,7 @@ This Power BI project analyzes **Plant Co's company performance** using various 
 
 ###  Tidying Up & Enhancements  
 - **Dynamic Chart Titles & Axis Titles** for better interactivity.  
-- **Formatted reports** to align with Plant Co’s brand guidelines.  
-- **Dynamic Report Title** that changes based on user selection.  
-
-###  Final Tweaks & Publishing  
-- Conducted **final review and optimizations**.  
-- Published the report to **Power BI Service** for accessibility.  
+- **Dynamic Report Title** that changes based on user selection.   
 
 ##  Tools & Technologies Used  
 - **Power BI** (for data visualization)  
